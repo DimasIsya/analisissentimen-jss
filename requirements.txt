@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn==1.3.2
+Sastrawi
+joblib
+plotly
+emoji
+numpy
